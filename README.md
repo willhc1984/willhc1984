@@ -1,4 +1,4 @@
-- 👋 Olá, Sou @willhc1984 - William
+- 👋 Olá, Sou William Henrique - @willhc1984
 - 👀 Sou interessado em programação front-end/back-end, banco de dados entre outras tecnologias.
 - 🌱 Estou aprendendo Java.
 - 📫 Email: will-hc-1984@hotmail.com.
